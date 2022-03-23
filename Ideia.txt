@@ -1,0 +1,12 @@
+Ideia principal - Criar um interface que possamos utilizar para gerenciar tarefas.
+
+Terá 2 botões:
+    1 - Reset (Retorna a lista como original)
+    2 - Adicionar nova tarefa
+
+Funcionalidades:
+    Existirão 3 opções vinculadas a tarefa:
+        1 - To do
+        2 - Doing
+        3 - Done (Quando for selecionado Done a opção deve ser removida da lista)
+            3.a - Deve-se perguntar se deve mesmo excluir.
